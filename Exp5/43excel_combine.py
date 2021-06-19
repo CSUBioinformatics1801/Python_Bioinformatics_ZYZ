@@ -1,8 +1,8 @@
 import openpyxl
 import os
 def excel_srt():
-    wb1=openpyxl.load_workbook('D:\\Remain\\7.python及其生物信息学应用\\实践\\实践5\\sheet1.xlsx')
-    wb2=openpyxl.load_workbook('D:\\Remain\\7.python及其生物信息学应用\\实践\\实践5\\sheet2.xlsx')
+    wb1=openpyxl.load_workbook('sheet1.xlsx')
+    wb2=openpyxl.load_workbook('sheet2.xlsx')
     sheet1=wb1.active
     row1=sheet1.max_row
     sheet2=wb2.active
