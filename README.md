@@ -1,5 +1,5 @@
 # Python_Bioinformatics_ZYZ
-This is a copy of python & bioinformatics homework
+This is a copy of python & bioinformatics homework.  
 这个项目对应如下课程
 |课程编号|课程名|课程属性|学分|总学时(周)|讲课（含研讨）|实践|
 | :----: |:----: |:----: |:----: |:----: |:----: |:----: |
