@@ -1,5 +1,5 @@
 import jieba
-# f=open('D:\\Remain\\7.python及其生物信息学应用\\实践\\实践7\\3-6实践材料.txt','rb')
+# f=open('3-6实践材料.txt','rb')
 # s=f.read()
 # import jieba.analyse
 # s='这些结果表明，舒尼替尼和RFA整合疗法是一种优于每种疗法的有效治疗策略，可显着抑制肿瘤生长并延长被治疗小鼠的寿命'
