@@ -1,0 +1,121 @@
+LOCUS       CVPTRXFUS               3585 bp    DNA     circular SYN 24-MAY-1995
+DEFINITION  Fusion cloning vector pTRXFUS, complete sequence.
+ACCESSION   U16857
+VERSION     U16857.1
+KEYWORDS    thioredoxin gene fusion vector.
+SOURCE      Cloning vector pTRXFUS
+  ORGANISM  Cloning vector pTRXFUS
+            other sequences; artificial sequences; vectors.
+REFERENCE   1  (bases 1 to 3585)
+  AUTHORS   LaVallie,E.R., DiBlasio,E.A., Kovacic,S., Grant,K.L., Schendel,P.F.
+            and McCoy,J.M.
+  TITLE     A thioredoxin gene fusion expression system that circumvents
+            inclusion body formation in the E. coli cytoplasm
+  JOURNAL   Biotechnology (N Y) 11 (2), 187-193 (1993)
+   PUBMED   7763371
+REFERENCE   2  (bases 1 to 3585)
+  AUTHORS   LaVallie,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-1994) Edward R. LaVallie, Genetics Institute, 87
+            CambridgePark Drive, Cambridge, MA 02140, USA
+FEATURES             Location/Qualifiers
+     source          1..3585
+                     /organism="Cloning vector pTRXFUS"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:37161"
+     CDS             201..1061
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-lactamase"
+                     /protein_id="AAA67269.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVE
+                     YSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRL
+                     DRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPL
+                     LRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIA
+                     EIGASLIKHW"
+     regulatory      2159..2187
+                     /regulatory_class="promoter"
+                     /note="lambda pL promoter"
+     CDS             2724..3128
+                     /note="Derived from E. coli thioredoxin gene; normal
+                     translation termination codon following nucleotide 3050
+                     has been removed"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="AAA67270.1"
+                     /translation="MSDKIIHLTDDSFDTDVLKADGAILVDFWAEWCGPCKMIAPILD
+                     EIADEYQGKLTVAKLNIDQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALSKGQLKE
+                     FLDANLAGSGSGDDDDKVPGDPLESTCSNRTG"
+     mat_peptide     2724..3050
+                     /product="thioredoxin"
+     misc_feature    3066..3080
+                     /note="encodes enterokinase site"
+     misc_feature    3081..3112
+                     /note="polylinker cloning site"
+     regulatory      3113..3179
+                     /regulatory_class="terminator"
+                     /note="aspA transcription terminator"
+ORIGIN      
+        1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt
+       61 cttagacgtc aggtggcact tttcggggaa atgtgcgcgg aacccctatt tgtttatttt
+      121 tctaaataca ttcaaatatg tatccgctca tgagacaata accctgataa atgcttcaat
+      181 aatattgaaa aaggaagagt atgagtattc aacatttccg tgtcgccctt attccctttt
+      241 ttgcggcatt ttgccttcct gtttttgctc acccagaaac gctggtgaaa gtaaaagatg
+      301 ctgaagatca gttgggtgca cgagtgggtt acatcgaact ggatctcaac agcggtaaga
+      361 tccttgagag ttttcgcccc gaagaacgtt ttccaatgat gagcactttt aaagttctgc
+      421 tatgtggcgc ggtattatcc cgtattgacg ccgggcaaga gcaactcggt cgccgcatac
+      481 actattctca gaatgacttg gttgagtact caccagtcac agaaaagcat cttacggatg
+      541 gcatgacagt aagagaatta tgcagtgctg ccataaccat gagtgataac actgcggcca
+      601 acttacttct gacaacgatc ggaggaccga aggagctaac cgcttttttg cacaacatgg
+      661 gggatcatgt aactcgcctt gatcgttggg aaccggagct gaatgaagcc ataccaaacg
+      721 acgagcgtga caccacgatg cctgtagcaa tggcaacaac gttgcgcaaa ctattaactg
+      781 gcgaactact tactctagct tcccggcaac aattaataga ctggatggag gcggataaag
+      841 ttgcaggacc acttctgcgc tcggcccttc cggctggctg gtttattgct gataaatctg
+      901 gagccggtga gcgtgggtct cgcggtatca ttgcagcact ggggccagat ggtaagccct
+      961 cccgtatcgt agttatctac acgacgggga gtcaggcaac tatggatgaa cgaaatagac
+     1021 agatcgctga gataggtgcc tcactgatta agcattggta actgtcagac caagtttact
+     1081 catatatact ttagattgat ttaaaacttc atttttaatt taaaaggatc taggtgaaga
+     1141 tcctttttga taatctcatg accaaaatcc cttaacgtga gttttcgttc cactgagcgt
+     1201 cagaccccgt agaaaagatc aaaggatctt cttgagatcc tttttttctg cgcgtaatct
+     1261 gctgcttgca aacaaaaaaa ccaccgctac cagcggtggt ttgtttgccg gatcaagagc
+     1321 taccaactct ttttccgaag gtaactggct tcagcagagc gcagatacca aatactgtcc
+     1381 ttctagtgta gccgtagtta ggccaccact tcaagaactc tgtagcaccg cctacatacc
+     1441 tcgctctgct aatcctgtta ccagtggctg ctgccagtgg cgataagtcg tgtcttaccg
+     1501 ggttggactc aagacgatag ttaccggata aggcgcagcg gtcgggctga acggggggtt
+     1561 cgtgcacaca gcccagcttg gagcgaacga cctacaccga actgagatac ctacagcgtg
+     1621 agcattgaga aagcgccacg cttcccgaag ggagaaaggc ggacaggtat ccggtaagcg
+     1681 gcagggtcgg aacaggagag cgcacgaggg agcttccagg gggaaacgcc tggtatcttt
+     1741 atagtcctgt cgggtttcgc cacctctgac ttgagcgtcg atttttgtga tgctcgtcag
+     1801 gggggcggag cctatggaaa aacgccagca acgcggcctt tttacggttc ctggcctttt
+     1861 gctggccttt tgctcacatg ttctttcctg cgttatcccc tgattctgtg gataaccgta
+     1921 ttaccgcctt tgagtgagct gataccgctc gccgcagccg aacgaccgag cgcagcgagt
+     1981 cagtgagcga ggaagcggaa gagcgcccaa tacgcaaacc gcctctcccc gcgcgttggc
+     2041 cgattcatta atgcagaatt gatctctcac ctaccaaaca atgcccccct gcaaaaaata
+     2101 aattcatata aaaaacatac agataaccat ctgcggtgat aaattatctc tggcggtgtt
+     2161 gacataaata ccactggcgg tgatactgag cacatcagca ggacgcactg accaccatga
+     2221 aggtgacgct cttaaaaatt aagccctgaa gaagggcagc attcaaagca gaaggctttg
+     2281 gggtgtgtga tacgaaacga agcattggcc gtaagtgcga ttccggatta gctgccaatg
+     2341 tgccaatcgc ggggggtttt cgttcaggac tacaactgcc acacaccacc aaagctaact
+     2401 gacaggagaa tccagatgga tgcacaaaca cgccgccgcg aacgtcgcgc agagaaacag
+     2461 gctcaatgga aagcagcaaa tcccctgttg gttggggtaa gcgcaaaacc agttccgaaa
+     2521 gattttttta actataaacg ctgatggaag cgtttatgcg gaagaggtaa agcccttccc
+     2581 gagtaacaaa aaaacaacag cataaataac cccgctctta cacattccag ccctgaaaaa
+     2641 gggcatcaaa ttaaaccaca cctatggtgt atgcatttat ttgcatacat tcaatcaatt
+     2701 gttatctaag gaaatactta catatgagcg ataaaattat tcacctgact gacgacagtt
+     2761 ttgacacgga tgtactcaaa gcggacgggg cgatcctcgt cgatttctgg gcagagtggt
+     2821 gcggtccgtg caaaatgatc gccccgattc tggatgaaat cgctgacgaa tatcagggca
+     2881 aactgaccgt tgcaaaactg aacatcgatc aaaaccctgg cactgcgccg aaatatggca
+     2941 tccgtggtat cccgactctg ctgctgttca aaaacggtga agtggcggca accaaagtgg
+     3001 gtgcactgtc taaaggtcag ttgaaagagt tcctcgacgc taacctggcc ggttctggtt
+     3061 ctggtgatga cgatgacaag gtacccgggg atcctctaga gtcgacctgc agtaatcgta
+     3121 cagggtagta caaataaaaa aggcacgtca gatgacgtgc cttttttctt gtgagcagta
+     3181 agcttggcac tggccgtcgt tttacaacgt cgtgactggg aaaaccctgg cgttacccaa
+     3241 cttaatcgcc ttgcagcaca tccccctttc gccagctggc gtaatagcga agaggcccgc
+     3301 accgatcgcc cttcccaaca gttgcgcagc ctgaatggcg aatggcgcct gatgcggtat
+     3361 tttctcctta cgcatctgtg cggtatttca caccgcatat atggtgcact ctcagtacaa
+     3421 tctgctctga tgccgcatag ttaagccagc cccgacaccc gccaacaccc gctgacgcgc
+     3481 cctgacgggc ttgtctgctc ccggcatccg cttacagaca agctgtgacc gtctccggga
+     3541 gctgcatgtg tcagaggttt tcaccgtcat caccgaaacg cgcga
+//
+
