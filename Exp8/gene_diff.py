@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
-data=pd.read_table("D:\\Remain\\7.python及其生物信息学应用\\实践\\实践8\\GSE5583.txt",header=0,index_col=0)
+data=pd.read_table("实践8\\GSE5583.txt",header=0,index_col=0)
 print("Previous 5:\n",data.head())
 number_of_genes=len(data.index)
 print("Gene Number:",number_of_genes)
