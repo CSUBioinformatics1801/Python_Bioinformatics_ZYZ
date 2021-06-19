@@ -3,7 +3,7 @@ import jieba.posseg as pseg
 import wordcloud
 import tkinter
 from PIL import Image,ImageTk
-str=open('D:\\Remain\\7.python及其生物信息学应用\\实践\\实践7\\红楼梦.txt','rb').read()
+str=open('红楼梦.txt','rb').read()
 wlist=pseg.lcut(str)
 wtimes={}
 cstr=[];sw=[]
